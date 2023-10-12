@@ -10,7 +10,7 @@
   </head>
   <body onload="info()">
     <iframe
-      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d387149.816785!2d-,19.057562197352165!3d40.69701922584953!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew%20York%2C%20NY!5e0!3m2!1sen!2sus!4v1693135630224!5m2!1sen!2sus"
+      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d82387.51859722205!2d19.03726225!3d49.81220015!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47169f63dd80507b%3A0x6811f587fa4fe3a7!2sBielsko-Bia%C5%82a!5e0!3m2!1spl!2spl!4v1697139853007!5m2!1spl!2spl"
       style="
         position: fixed;
         top: 0;
